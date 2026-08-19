@@ -1,0 +1,24 @@
+{
+  "desktopRect": {
+    "dpr": 2,
+    "height": 886.5859375,
+    "scrollX": 0,
+    "scrollY": 0,
+    "width": 530,
+    "x": 345,
+    "y": 138
+  },
+  "mobileRect": {
+    "dpr": 1,
+    "height": 622,
+    "scrollX": 0,
+    "scrollY": 0,
+    "width": 372,
+    "x": 9,
+    "y": 238.6953125
+  },
+  "mobileOverflow": 0,
+  "errorLogs": [],
+  "desktop": "/Users/jaykanchan/Documents/Codex/2026-07-30/referenced-chatgpt-conversation-this-is-an/work/smoke-iab/desktop.png",
+  "mobile": "/Users/jaykanchan/Documents/Codex/2026-07-30/referenced-chatgpt-conversation-this-is-an/work/smoke-iab/mobile.png"
+}
